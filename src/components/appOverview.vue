@@ -4,15 +4,15 @@
   </nav>
   <section>
     <div class="fullscreen-bg">
-    <video loop muted autoplay poster="img/videoframe.jpg" class="background-video">
-      <source src="src/assets/Tree.mp4" type="video">
-    </video>
-</div>
+      <video loop muted autoplay poster="img/videoframe.jpg" class="background-video">
+        <source src="src/assets/Tree.mp4" type="video">
+      </video>
+    </div>
   </section>
 </template>
 
 export default {
-
+  name:'app-overview'
 }
 <style media="screen">
 .fullscreen-bg {
