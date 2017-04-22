@@ -10,5 +10,8 @@ export default new Router({
       path: '/',
       component: AppOverview
     }
+    // children: [
+    //
+    // ]
   ]
 })

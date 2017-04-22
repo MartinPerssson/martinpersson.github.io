@@ -1,20 +1,22 @@
 <template>
-  <nav>
-
-  </nav>
   <section>
     <div class="fullscreen-bg">
-      <video loop muted autoplay poster="img/videoframe.jpg" class="background-video">
-        <source src="src/assets/Tree.mp4" type="video">
+      <video loop muted autoplay class="background-video">
+        <source src="../static/Tree.mp4" type="video/mp4">
       </video>
     </div>
   </section>
 </template>
-
+<script>
 export default {
-  name:'app-overview'
 }
+</script>
+
 <style media="screen">
+section{
+  width: 100%;
+  height: 100%;
+}
 .fullscreen-bg {
   position: fixed;
   top: 0;
