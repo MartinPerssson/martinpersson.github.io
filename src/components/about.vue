@@ -1,7 +1,9 @@
 <template lang="html">
-<div class="wrap">
-  <p>Martin Persson</p>
-</div>
+<section>
+  <div class="about">
+    <p>Martin persson</p>
+  </div>
+</section>
 </template>
 
 <script>
