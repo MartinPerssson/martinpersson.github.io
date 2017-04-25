@@ -5,7 +5,7 @@
     </div> -->
     <div class="fullscreen-bg">
       <video loop muted autoplay playsinline="true" class="background-video">
-        <source src="../static/Tree.mp4" type="video/mp4">
+        <source src="static/Tree.mp4" type="video/mp4">
       </video>
     </div>
   </section>
