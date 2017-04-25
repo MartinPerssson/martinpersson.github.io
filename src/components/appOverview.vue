@@ -4,7 +4,7 @@
         <img src="../assets/LogoMP.png" alt="">
     </div> -->
     <div class="fullscreen-bg">
-      <video loop muted autoplay playsinline="true" class="background-video">
+      <video loop muted autoplay playsinline="true" poster="static/poster.png" class="background-video">
         <source src="static/Tree.mp4" type="video/mp4">
       </video>
     </div>
